@@ -1,0 +1,17 @@
+{
+    "robots": [
+      {
+        "name": "Robot1",
+        "id_keyword": "E85C"
+      },
+      {
+        "name": "Robot2",
+        "id_keyword": "32F1"
+      },
+      {
+        "name": "Robot3",
+        "id_keyword": "06F4"
+      }
+    ]
+  }
+  
